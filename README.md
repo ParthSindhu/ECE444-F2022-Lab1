@@ -1,12 +1,14 @@
+# Lab 1
+
 Parth Sindhu
 
 **Activity 1**
 
-![](images/Activity1.png)
+![github commit](images/github_act1.png)
 
 **Activity 2**
 
-![](images/Activity2.png)
+![merge commit](images/act2.png)
 
 **Activity 3**
 
