@@ -2,7 +2,7 @@ Parth Sindhu
 
 **Activity 1**
 
-![](images/Activity1.png)
+![](images/github_act1.png)
 
 **Activity 2**
 
