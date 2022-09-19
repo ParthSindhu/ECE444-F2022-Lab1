@@ -12,7 +12,7 @@ Parth Sindhu
 
 **Activity 3**
 
-![](images/Activity3.png)
+![pr merge](images/act3.png)
 
 **Activity 4**
 
