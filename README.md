@@ -16,11 +16,11 @@ Parth Sindhu
 
 **Activity 4**
 
-[Link to your teammate's repo]
+https://github.com/SamPan24/ECE444-F2022-Lab1
 
-[Screenshot of the commit you made to your teammate's repo]
+![Screenshot of the commit you made to your teammate's repo](images/act4.png)
 
-[Screenshot of the commit your teammate made to your repo]
+![Screenshot of the commit your teammate made to your repo](images/act4_2.png)
 
 **Activity 5**
 
