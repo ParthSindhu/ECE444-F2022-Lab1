@@ -24,7 +24,13 @@ https://github.com/SamPan24/ECE444-F2022-Lab1
 
 **Activity 5**
 
-[Screenshots of the commands that you used to rebase  along with their outpus]
+Making Commits in develop
+
+![](images/act5_2.png)
+
+Rebasing rebase branch
+
+![](images/act5_1.png)
 
 **Activity 6**
 
