@@ -34,16 +34,19 @@ Rebasing rebase branch
 
 **Activity 6**
 
-[Link to your ECE444-F2022-Lab1-EP repo]
+https://github.com/ParthSindhu/ECE444-F2022-EP
 
 **Activity 7**
 
-![](images/Activity7.png)
+![](images/act7.png)
 
-[Screenshot of your rebase command]
+Screenshot of rebase command
+
+![](images/act7_1.png)
+
 
 **Activity 8**
 
+[Screenshot of your rebase command]
 ![](images/Activity8.png)
 
-[Screenshot of your rebase command]
