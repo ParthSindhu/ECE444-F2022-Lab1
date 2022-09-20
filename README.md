@@ -47,6 +47,8 @@ Screenshot of rebase command
 
 **Activity 8**
 
-[Screenshot of your rebase command]
-![](images/Activity8.png)
+![](images/act8_1.png)
 
+Screenshot of your rebase command
+
+![](images/act8_2.png)
